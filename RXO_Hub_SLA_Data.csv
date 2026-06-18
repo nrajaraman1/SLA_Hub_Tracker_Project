@@ -1,0 +1,421 @@
+Shipment ID,Order Date,Hub,Customer,Customer Type,Carrier,Service Level,Promised Delivery Date,Actual Delivery Date,Status,Units
+SHP-100098,04/02/2026,Dallas,RegionalGrocer Co,Standard,Summit Carriers,Express,04/03/2026,04/03/2026,Delivered,3
+SHP-100091,04/02/2026,Los Angeles,BlueSky Distributors,Standard,Redline Logistics,Two-Day,04/04/2026,04/04/2026,Delivered,16
+SHP-100120,04/02/2026,Phoenix,Target,VIP,Redline Logistics,Two-Day,04/04/2026,04/04/2026,Delivered,8
+SHP-100287,04/02/2026,Phoenix,Lowe's,VIP,Ironclad Hauling,Standard,04/05/2026,04/05/2026,Delivered,37
+SHP-100147,04/02/2026,Los Angeles,RegionalGrocer Co,Standard,Eagle Freight,Express,04/03/2026,04/03/2026,Delivered,24
+SHP-100306,04/03/2026,Atlanta,Northgate Mfg,Standard,Patriot Transport,Two-Day,04/05/2026,04/05/2026,Delivered,39
+SHP-100299,04/03/2026,Newark,Northgate Mfg,Standard,Redline Logistics,Two-Day,04/05/2026,04/05/2026,Delivered,14
+SHP-100394,04/03/2026,Atlanta,Home Depot,VIP,Ironclad Hauling,Express,04/04/2026,04/04/2026,Delivered,29
+SHP-100258,04/03/2026,Newark,Sunrise Foods,Standard,Redline Logistics,Express,04/04/2026,04/05/2026,Late,16
+SHP-100024,04/03/2026,Dallas,Coca-Cola,VIP,Eagle Freight,Express,04/04/2026,04/04/2026,Delivered,15
+SHP-100216,04/03/2026,Newark,Coastal Retail,Standard,Eagle Freight,Standard,04/06/2026,04/06/2026,Delivered,36
+SHP-100366,04/03/2026,Chicago,Walmart,VIP,Ironclad Hauling,Standard,04/06/2026,04/06/2026,Delivered,11
+SHP-100174,04/04/2026,Los Angeles,Northgate Mfg,Standard,Ironclad Hauling,Two-Day,04/06/2026,04/06/2026,Delivered,18
+SHP-100075,04/04/2026,Dallas,Lowe's,VIP,Patriot Transport,Express,04/05/2026,04/05/2026,Delivered,26
+SHP-100213,04/04/2026,Atlanta,Coca-Cola,VIP,Patriot Transport,Express,04/05/2026,04/05/2026,Delivered,24
+SHP-100363,04/04/2026,Phoenix,Apex Supplies,Standard,Summit Carriers,Express,04/05/2026,04/05/2026,Delivered,6
+SHP-100149,04/04/2026,Atlanta,Northgate Mfg,Standard,Summit Carriers,Express,04/05/2026,04/04/2026,Delivered,21
+SHP-100242,04/04/2026,Dallas,Target,VIP,Summit Carriers,Express,04/05/2026,04/05/2026,Delivered,30
+SHP-100119,04/04/2026,Newark,BlueSky Distributors,Standard,Patriot Transport,Standard,04/07/2026,04/07/2026,Delivered,16
+SHP-100283,04/05/2026,Phoenix,Coastal Retail,Standard,Summit Carriers,Two-Day,04/07/2026,04/07/2026,Delivered,12
+SHP-100333,04/05/2026,Chicago,Northgate Mfg,Standard,Eagle Freight,Two-Day,04/07/2026,04/07/2026,Delivered,36
+SHP-100181,04/06/2026,Newark,Apex Supplies,Standard,Ironclad Hauling,Express,04/07/2026,04/06/2026,Delivered,4
+SHP-100111,04/06/2026,Los Angeles,Sunrise Foods,Standard,Patriot Transport,Standard,04/09/2026,04/09/2026,Delivered,39
+SHP-100381,04/06/2026,Chicago,Apex Supplies,Standard,Redline Logistics,Two-Day,04/08/2026,04/08/2026,Delivered,14
+SHP-100045,04/06/2026,Atlanta,Northgate Mfg,Standard,Patriot Transport,Express,04/07/2026,04/09/2026,Late,17
+SHP-100037,04/06/2026,Atlanta,Coastal Retail,Standard,Summit Carriers,Two-Day,04/08/2026,04/08/2026,Delivered,38
+SHP-100056,04/06/2026,Newark,Coastal Retail,Standard,Summit Carriers,Express,04/07/2026,04/07/2026,Delivered,35
+SHP-100316,04/06/2026,Chicago,MidwestParts LLC,Standard,Ironclad Hauling,Two-Day,04/08/2026,04/08/2026,Delivered,38
+SHP-100007,04/06/2026,Los Angeles,Coca-Cola,VIP,Ironclad Hauling,Standard,04/09/2026,04/09/2026,Delivered,6
+SHP-100028,04/07/2026,Chicago,MidwestParts LLC,Standard,Patriot Transport,Express,04/08/2026,04/07/2026,Delivered,7
+SHP-100199,04/07/2026,Newark,MidwestParts LLC,Standard,Redline Logistics,Two-Day,04/09/2026,04/09/2026,Delivered,5
+SHP-100261,04/07/2026,Newark,RegionalGrocer Co,Standard,Eagle Freight,Express,04/08/2026,04/08/2026,Delivered,36
+SHP-100259,04/07/2026,Dallas,Coastal Retail,Standard,Redline Logistics,Standard,04/10/2026,04/10/2026,Delivered,31
+SHP-100118,04/07/2026,Los Angeles,Sunrise Foods,Standard,Ironclad Hauling,Express,04/08/2026,04/08/2026,Delivered,19
+SHP-100307,04/07/2026,Atlanta,Sunrise Foods,Standard,Velocity Lines,Two-Day,04/09/2026,04/09/2026,Delivered,29
+SHP-100014,04/07/2026,Dallas,Apex Supplies,Standard,Patriot Transport,Standard,04/10/2026,04/10/2026,Delivered,11
+SHP-100025,04/08/2026,Atlanta,Home Depot,VIP,Ironclad Hauling,Two-Day,04/10/2026,04/09/2026,Delivered,22
+SHP-100272,04/08/2026,Los Angeles,Coastal Retail,Standard,Patriot Transport,Two-Day,04/10/2026,04/10/2026,Delivered,36
+SHP-100233,04/08/2026,Los Angeles,MidwestParts LLC,Standard,Redline Logistics,Two-Day,04/10/2026,04/12/2026,Late,11
+SHP-100104,04/08/2026,Los Angeles,MidwestParts LLC,Standard,Redline Logistics,Two-Day,04/10/2026,04/10/2026,Delivered,14
+SHP-100246,04/08/2026,Dallas,Target,VIP,Patriot Transport,Two-Day,04/10/2026,04/10/2026,Delivered,20
+SHP-100163,04/08/2026,Chicago,Sunrise Foods,Standard,Ironclad Hauling,Standard,04/11/2026,04/11/2026,Delivered,28
+SHP-100310,04/08/2026,Dallas,MidwestParts LLC,Standard,Redline Logistics,Express,04/09/2026,04/09/2026,Delivered,12
+SHP-100240,04/09/2026,Phoenix,RegionalGrocer Co,Standard,Ironclad Hauling,Express,04/10/2026,04/10/2026,Delivered,20
+SHP-100243,04/09/2026,Los Angeles,Target,VIP,Velocity Lines,Standard,04/12/2026,04/11/2026,Delivered,31
+SHP-100176,04/09/2026,Dallas,Coastal Retail,Standard,Ironclad Hauling,Express,04/10/2026,04/10/2026,Delivered,2
+SHP-100356,04/09/2026,Phoenix,Coca-Cola,VIP,Patriot Transport,Express,04/10/2026,04/10/2026,Delivered,27
+SHP-100327,04/09/2026,Newark,Target,VIP,Ironclad Hauling,Standard,04/12/2026,04/12/2026,Delivered,33
+SHP-100343,04/10/2026,Los Angeles,Lowe's,VIP,Summit Carriers,Two-Day,04/12/2026,04/12/2026,Delivered,10
+SHP-100326,04/10/2026,Phoenix,Walmart,VIP,Velocity Lines,Standard,04/13/2026,04/13/2026,Delivered,1
+SHP-100389,04/10/2026,Phoenix,MidwestParts LLC,Standard,Patriot Transport,Express,04/11/2026,04/11/2026,Delivered,6
+SHP-100146,04/10/2026,Phoenix,RegionalGrocer Co,Standard,Eagle Freight,Express,04/11/2026,04/10/2026,Delivered,26
+SHP-100244,04/10/2026,Los Angeles,MidwestParts LLC,Standard,Patriot Transport,Two-Day,04/12/2026,04/12/2026,Delivered,5
+SHP-100009,04/10/2026,Chicago,Coca-Cola,VIP,Ironclad Hauling,Express,04/11/2026,04/11/2026,Delivered,16
+SHP-100409,04/10/2026,Los Angeles,Northgate Mfg,Standard,Summit Carriers,Express,04/11/2026,04/12/2026,Late,3
+SHP-100184,04/10/2026,Los Angeles,Apex Supplies,Standard,Ironclad Hauling,Express,04/11/2026,04/11/2026,Delivered,28
+SHP-100064,04/10/2026,Atlanta,Coca-Cola,VIP,Patriot Transport,Two-Day,04/12/2026,04/12/2026,Delivered,37
+SHP-100105,04/11/2026,Phoenix,Coca-Cola,VIP,Redline Logistics,Two-Day,04/13/2026,04/14/2026,Late,1
+SHP-100169,04/11/2026,Phoenix,Sunrise Foods,Standard,Eagle Freight,Standard,04/14/2026,04/15/2026,Late,9
+SHP-100339,04/11/2026,Chicago,MidwestParts LLC,Standard,Ironclad Hauling,Standard,04/14/2026,04/13/2026,Delivered,4
+SHP-100178,04/11/2026,Chicago,BlueSky Distributors,Standard,Redline Logistics,Two-Day,04/13/2026,04/13/2026,Delivered,40
+SHP-100347,04/11/2026,Atlanta,Lowe's,VIP,Patriot Transport,Express,04/12/2026,04/12/2026,Delivered,16
+SHP-100102,04/11/2026,Dallas,Target,VIP,Velocity Lines,Express,04/12/2026,04/12/2026,Delivered,27
+SHP-100197,04/11/2026,Newark,Home Depot,VIP,Redline Logistics,Two-Day,04/13/2026,04/13/2026,Delivered,16
+SHP-100062,04/11/2026,Los Angeles,Sunrise Foods,Standard,Ironclad Hauling,Standard,04/14/2026,04/14/2026,Delivered,40
+SHP-100396,04/11/2026,Atlanta,Northgate Mfg,Standard,Redline Logistics,Express,04/12/2026,04/11/2026,Delivered,11
+SHP-100400,04/12/2026,Newark,Home Depot,VIP,Summit Carriers,Express,04/13/2026,04/13/2026,Delivered,21
+SHP-100114,04/12/2026,Los Angeles,MidwestParts LLC,Standard,Ironclad Hauling,Express,04/13/2026,04/13/2026,Delivered,21
+SHP-100315,04/12/2026,Phoenix,Home Depot,VIP,Patriot Transport,Express,04/13/2026,04/13/2026,Delivered,4
+SHP-100205,04/13/2026,Dallas,Target,VIP,Eagle Freight,Express,04/14/2026,04/14/2026,Delivered,34
+SHP-100040,04/13/2026,Atlanta,Sunrise Foods,Standard,Velocity Lines,Two-Day,04/15/2026,04/15/2026,Delivered,17
+SHP-100263,04/13/2026,Phoenix,Coastal Retail,Standard,Eagle Freight,Standard,04/16/2026,04/16/2026,Delivered,22
+SHP-100280,04/13/2026,Dallas,Northgate Mfg,Standard,Summit Carriers,Standard,04/16/2026,04/16/2026,Delivered,7
+SHP-100361,04/13/2026,Chicago,MidwestParts LLC,Standard,Eagle Freight,Standard,04/16/2026,04/16/2026,Delivered,34
+SHP-100223,04/14/2026,Chicago,Home Depot,VIP,Redline Logistics,Standard,04/17/2026,04/17/2026,Delivered,22
+SHP-100344,04/14/2026,Phoenix,MidwestParts LLC,Standard,Redline Logistics,Express,04/15/2026,04/18/2026,Late,18
+SHP-100048,04/14/2026,Chicago,Coca-Cola,VIP,Ironclad Hauling,Standard,04/17/2026,04/17/2026,Delivered,27
+SHP-100187,04/14/2026,Phoenix,RegionalGrocer Co,Standard,Eagle Freight,Express,04/15/2026,04/15/2026,Delivered,34
+SHP-100029,04/14/2026,Atlanta,MidwestParts LLC,Standard,Ironclad Hauling,Express,04/15/2026,04/15/2026,Delivered,29
+SHP-100190,04/14/2026,Phoenix,Northgate Mfg,Standard,Summit Carriers,Standard,04/17/2026,04/17/2026,Delivered,39
+SHP-100180,04/15/2026,Newark,Lowe's,VIP,Summit Carriers,Two-Day,04/17/2026,04/17/2026,Delivered,38
+SHP-100372,04/15/2026,Newark,Coastal Retail,Standard,Patriot Transport,Two-Day,04/17/2026,04/17/2026,Delivered,40
+SHP-100217,04/15/2026,Phoenix,Coastal Retail,Standard,Velocity Lines,Express,04/16/2026,04/16/2026,Delivered,8
+SHP-100161,04/15/2026,Dallas,BlueSky Distributors,Standard,Patriot Transport,Two-Day,04/17/2026,04/17/2026,Delivered,24
+SHP-100268,04/15/2026,Atlanta,RegionalGrocer Co,Standard,Redline Logistics,Two-Day,04/17/2026,04/17/2026,Delivered,2
+SHP-100016,04/15/2026,Chicago,Apex Supplies,Standard,Eagle Freight,Two-Day,04/17/2026,04/17/2026,Delivered,18
+SHP-100082,04/15/2026,Chicago,Target,VIP,Velocity Lines,Two-Day,04/17/2026,04/17/2026,Delivered,20
+SHP-100383,04/16/2026,Chicago,RegionalGrocer Co,Standard,Eagle Freight,Express,04/17/2026,04/17/2026,Delivered,38
+SHP-100318,04/16/2026,Atlanta,Coca-Cola,VIP,Summit Carriers,Two-Day,04/18/2026,04/18/2026,Delivered,16
+SHP-100399,04/16/2026,Atlanta,Walmart,VIP,Ironclad Hauling,Express,04/17/2026,04/17/2026,Delivered,9
+SHP-100292,04/16/2026,Phoenix,Apex Supplies,Standard,Ironclad Hauling,Express,04/17/2026,04/16/2026,Delivered,24
+SHP-100416,04/16/2026,Chicago,Target,VIP,Ironclad Hauling,Express,04/17/2026,04/17/2026,Delivered,28
+SHP-100387,04/17/2026,Dallas,MidwestParts LLC,Standard,Eagle Freight,Express,04/18/2026,04/18/2026,Delivered,10
+SHP-100206,04/17/2026,Atlanta,Northgate Mfg,Standard,Redline Logistics,Two-Day,04/19/2026,04/19/2026,Delivered,12
+SHP-100395,04/17/2026,Newark,Walmart,VIP,Patriot Transport,Standard,04/20/2026,04/20/2026,Delivered,18
+SHP-100059,04/17/2026,Newark,BlueSky Distributors,Standard,Redline Logistics,Two-Day,04/19/2026,04/21/2026,Late,12
+SHP-100099,04/17/2026,Atlanta,Apex Supplies,Standard,Redline Logistics,Two-Day,04/19/2026,04/19/2026,Delivered,7
+SHP-100398,04/17/2026,Atlanta,Coca-Cola,VIP,Patriot Transport,Standard,04/20/2026,04/20/2026,Delivered,29
+SHP-100021,04/17/2026,Phoenix,Sunrise Foods,Standard,Eagle Freight,Two-Day,04/19/2026,04/19/2026,Delivered,36
+SHP-100225,04/18/2026,Phoenix,Sunrise Foods,Standard,Ironclad Hauling,Standard,04/21/2026,04/23/2026,Late,19
+SHP-100142,04/18/2026,Los Angeles,Lowe's,VIP,Ironclad Hauling,Two-Day,04/20/2026,04/19/2026,Delivered,3
+SHP-100401,04/18/2026,Chicago,Lowe's,VIP,Summit Carriers,Express,04/19/2026,04/19/2026,Delivered,5
+SHP-100289,04/18/2026,Newark,Northgate Mfg,Standard,Eagle Freight,Standard,04/21/2026,04/20/2026,Delivered,1
+SHP-100377,04/18/2026,Atlanta,RegionalGrocer Co,Standard,Eagle Freight,Express,04/19/2026,04/19/2026,Delivered,36
+SHP-100308,04/18/2026,Dallas,Apex Supplies,Standard,Summit Carriers,Standard,04/21/2026,04/21/2026,Delivered,37
+SHP-100376,04/18/2026,Los Angeles,Target,VIP,Patriot Transport,Express,04/19/2026,04/19/2026,Delivered,40
+SHP-100314,04/18/2026,Newark,MidwestParts LLC,Standard,Velocity Lines,Two-Day,04/20/2026,04/20/2026,Delivered,22
+SHP-100352,04/18/2026,Newark,RegionalGrocer Co,Standard,Patriot Transport,Two-Day,04/20/2026,04/20/2026,Delivered,13
+SHP-100182,04/18/2026,Atlanta,Coca-Cola,VIP,Redline Logistics,Standard,04/21/2026,04/21/2026,Delivered,8
+SHP-100129,04/19/2026,Atlanta,Apex Supplies,Standard,Patriot Transport,Standard,04/22/2026,04/22/2026,Delivered,10
+SHP-100201,04/19/2026,Dallas,RegionalGrocer Co,Standard,Eagle Freight,Two-Day,04/21/2026,04/21/2026,Delivered,26
+SHP-100254,04/19/2026,Newark,Coca-Cola,VIP,Redline Logistics,Two-Day,04/21/2026,04/21/2026,Delivered,23
+SHP-100136,04/19/2026,Phoenix,Coca-Cola,VIP,Patriot Transport,Two-Day,04/21/2026,04/21/2026,Delivered,30
+SHP-100313,04/19/2026,Newark,Coca-Cola,VIP,Summit Carriers,Express,04/20/2026,04/19/2026,Delivered,36
+SHP-100322,04/19/2026,Atlanta,Coastal Retail,Standard,Summit Carriers,Two-Day,04/21/2026,04/23/2026,Late,27
+SHP-100374,04/19/2026,Atlanta,Target,VIP,Redline Logistics,Two-Day,04/21/2026,04/21/2026,Delivered,9
+SHP-100235,04/20/2026,Chicago,MidwestParts LLC,Standard,Velocity Lines,Standard,04/23/2026,04/22/2026,Delivered,24
+SHP-100411,04/20/2026,Atlanta,Northgate Mfg,Standard,Velocity Lines,Two-Day,04/22/2026,04/22/2026,Delivered,33
+SHP-100153,04/20/2026,Newark,Coastal Retail,Standard,Ironclad Hauling,Two-Day,04/22/2026,04/22/2026,Delivered,32
+SHP-100004,04/20/2026,Phoenix,MidwestParts LLC,Standard,Redline Logistics,Express,04/21/2026,04/21/2026,Delivered,7
+SHP-100049,04/21/2026,Los Angeles,BlueSky Distributors,Standard,Summit Carriers,Standard,04/24/2026,04/24/2026,Delivered,27
+SHP-100266,04/21/2026,Dallas,RegionalGrocer Co,Standard,Velocity Lines,Express,04/22/2026,04/22/2026,Delivered,20
+SHP-100281,04/21/2026,Phoenix,Target,VIP,Eagle Freight,Two-Day,04/23/2026,04/22/2026,Delivered,31
+SHP-100249,04/22/2026,Los Angeles,Home Depot,VIP,Velocity Lines,Two-Day,04/24/2026,04/24/2026,Delivered,11
+SHP-100418,04/22/2026,Chicago,Walmart,VIP,Patriot Transport,Two-Day,04/24/2026,04/24/2026,Delivered,7
+SHP-100334,04/22/2026,Newark,Walmart,VIP,Ironclad Hauling,Standard,04/25/2026,04/28/2026,Late,22
+SHP-100133,04/22/2026,Phoenix,BlueSky Distributors,Standard,Eagle Freight,Express,04/23/2026,04/22/2026,Delivered,3
+SHP-100325,04/22/2026,Newark,Target,VIP,Ironclad Hauling,Express,04/23/2026,04/25/2026,Late,35
+SHP-100360,04/22/2026,Dallas,Northgate Mfg,Standard,Ironclad Hauling,Express,04/23/2026,04/23/2026,Delivered,26
+SHP-100402,04/22/2026,Los Angeles,Coastal Retail,Standard,Eagle Freight,Two-Day,04/24/2026,04/24/2026,Delivered,10
+SHP-100054,04/23/2026,Chicago,Walmart,VIP,Eagle Freight,Express,04/24/2026,04/23/2026,Delivered,3
+SHP-100241,04/23/2026,Dallas,BlueSky Distributors,Standard,Ironclad Hauling,Two-Day,04/25/2026,04/25/2026,Delivered,8
+SHP-100135,04/23/2026,Los Angeles,Northgate Mfg,Standard,Summit Carriers,Standard,04/26/2026,04/26/2026,Delivered,40
+SHP-100414,04/23/2026,Los Angeles,Coastal Retail,Standard,Eagle Freight,Express,04/24/2026,04/24/2026,Delivered,1
+SHP-100303,04/23/2026,Dallas,Northgate Mfg,Standard,Redline Logistics,Standard,04/26/2026,04/26/2026,Delivered,9
+SHP-100183,04/23/2026,Atlanta,Sunrise Foods,Standard,Ironclad Hauling,Express,04/24/2026,04/24/2026,Delivered,15
+SHP-100355,04/24/2026,Los Angeles,Coca-Cola,VIP,Velocity Lines,Two-Day,04/26/2026,04/26/2026,Delivered,30
+SHP-100342,04/24/2026,Chicago,Apex Supplies,Standard,Patriot Transport,Express,04/25/2026,04/25/2026,Delivered,6
+SHP-100036,04/24/2026,Dallas,Walmart,VIP,Velocity Lines,Standard,04/27/2026,04/28/2026,Late,26
+SHP-100096,04/24/2026,Chicago,Home Depot,VIP,Ironclad Hauling,Two-Day,04/26/2026,04/26/2026,Delivered,18
+SHP-100237,04/24/2026,Dallas,Home Depot,VIP,Eagle Freight,Two-Day,04/26/2026,04/26/2026,Delivered,36
+SHP-100368,04/24/2026,Dallas,MidwestParts LLC,Standard,Ironclad Hauling,Standard,04/27/2026,04/27/2026,Delivered,2
+SHP-100286,04/25/2026,Dallas,Apex Supplies,Standard,Patriot Transport,Express,04/26/2026,04/26/2026,Delivered,30
+SHP-100331,04/25/2026,Atlanta,Apex Supplies,Standard,Summit Carriers,Standard,04/28/2026,04/28/2026,Delivered,23
+SHP-100034,04/25/2026,Phoenix,BlueSky Distributors,Standard,Patriot Transport,Standard,04/28/2026,04/27/2026,Delivered,38
+SHP-100406,04/25/2026,Dallas,Apex Supplies,Standard,Velocity Lines,Two-Day,04/27/2026,04/27/2026,Delivered,4
+SHP-100227,04/25/2026,Newark,Lowe's,VIP,Eagle Freight,Two-Day,04/27/2026,04/27/2026,Delivered,4
+SHP-100080,04/26/2026,Phoenix,Walmart,VIP,Eagle Freight,Standard,04/29/2026,04/29/2026,Delivered,16
+SHP-100210,04/26/2026,Los Angeles,Apex Supplies,Standard,Patriot Transport,Standard,04/29/2026,04/29/2026,Delivered,17
+SHP-100144,04/26/2026,Chicago,BlueSky Distributors,Standard,Patriot Transport,Standard,04/29/2026,04/29/2026,Delivered,24
+SHP-100057,04/26/2026,Phoenix,BlueSky Distributors,Standard,Ironclad Hauling,Two-Day,04/28/2026,04/28/2026,Delivered,22
+SHP-100038,04/27/2026,Los Angeles,Apex Supplies,Standard,Redline Logistics,Express,04/28/2026,04/28/2026,Delivered,17
+SHP-100297,04/27/2026,Chicago,Apex Supplies,Standard,Patriot Transport,Standard,04/30/2026,04/30/2026,Delivered,33
+SHP-100403,04/28/2026,Newark,Coastal Retail,Standard,Ironclad Hauling,Express,04/29/2026,04/30/2026,Late,38
+SHP-100278,04/28/2026,Phoenix,Lowe's,VIP,Ironclad Hauling,Express,04/29/2026,04/29/2026,Delivered,36
+SHP-100090,04/28/2026,Newark,RegionalGrocer Co,Standard,Summit Carriers,Express,04/29/2026,04/29/2026,Delivered,18
+SHP-100392,04/28/2026,Los Angeles,MidwestParts LLC,Standard,Summit Carriers,Express,04/29/2026,04/29/2026,Delivered,19
+SHP-100032,04/28/2026,Dallas,MidwestParts LLC,Standard,Patriot Transport,Express,04/29/2026,04/28/2026,Delivered,11
+SHP-100379,04/29/2026,Dallas,Home Depot,VIP,Velocity Lines,Standard,05/02/2026,05/02/2026,Delivered,35
+SHP-100247,04/29/2026,Dallas,Target,VIP,Redline Logistics,Two-Day,05/01/2026,04/30/2026,Delivered,19
+SHP-100362,04/29/2026,Los Angeles,Coastal Retail,Standard,Ironclad Hauling,Two-Day,05/01/2026,05/01/2026,Delivered,38
+SHP-100173,04/29/2026,Chicago,Home Depot,VIP,Redline Logistics,Two-Day,05/01/2026,05/01/2026,Delivered,40
+SHP-100214,04/29/2026,Dallas,MidwestParts LLC,Standard,Eagle Freight,Express,04/30/2026,05/03/2026,Late,22
+SHP-100093,04/29/2026,Newark,Walmart,VIP,Eagle Freight,Express,04/30/2026,04/30/2026,Delivered,38
+SHP-100107,04/30/2026,Phoenix,Sunrise Foods,Standard,Eagle Freight,Two-Day,05/02/2026,05/02/2026,Delivered,38
+SHP-100323,04/30/2026,Chicago,Target,VIP,Summit Carriers,Express,05/01/2026,05/01/2026,Delivered,32
+SHP-100167,04/30/2026,Phoenix,Coca-Cola,VIP,Patriot Transport,Express,05/01/2026,05/01/2026,Delivered,26
+SHP-100419,04/30/2026,Los Angeles,Northgate Mfg,Standard,Ironclad Hauling,Standard,05/03/2026,05/03/2026,Delivered,1
+SHP-100132,04/30/2026,Dallas,Northgate Mfg,Standard,Ironclad Hauling,Express,05/01/2026,05/01/2026,Delivered,7
+SHP-100208,04/30/2026,Los Angeles,Lowe's,VIP,Ironclad Hauling,Express,05/01/2026,05/01/2026,Delivered,31
+SHP-100141,04/30/2026,Los Angeles,BlueSky Distributors,Standard,Patriot Transport,Express,05/01/2026,05/01/2026,Delivered,13
+SHP-100397,04/30/2026,Atlanta,MidwestParts LLC,Standard,Ironclad Hauling,Express,05/01/2026,05/01/2026,Delivered,7
+SHP-100335,04/30/2026,Los Angeles,Home Depot,VIP,Velocity Lines,Standard,05/03/2026,05/03/2026,Delivered,37
+SHP-100052,04/30/2026,Dallas,Sunrise Foods,Standard,Redline Logistics,Express,05/01/2026,05/01/2026,Delivered,26
+SHP-100338,05/01/2026,Atlanta,Lowe's,VIP,Summit Carriers,Two-Day,05/03/2026,05/03/2026,Delivered,35
+SHP-100413,05/01/2026,Chicago,BlueSky Distributors,Standard,Patriot Transport,Two-Day,05/03/2026,05/04/2026,Late,30
+SHP-100092,05/01/2026,Phoenix,MidwestParts LLC,Standard,Patriot Transport,Two-Day,05/03/2026,05/03/2026,Delivered,32
+SHP-100020,05/01/2026,Atlanta,Home Depot,VIP,Redline Logistics,Express,05/02/2026,05/05/2026,Exception,6
+SHP-100407,05/01/2026,Dallas,Sunrise Foods,Standard,Patriot Transport,Standard,05/04/2026,05/04/2026,Delivered,34
+SHP-100219,05/01/2026,Atlanta,Northgate Mfg,Standard,Velocity Lines,Two-Day,05/03/2026,05/03/2026,Delivered,1
+SHP-100139,05/01/2026,Dallas,MidwestParts LLC,Standard,Patriot Transport,Standard,05/04/2026,05/04/2026,Delivered,19
+SHP-100291,05/01/2026,Atlanta,Lowe's,VIP,Ironclad Hauling,Express,05/02/2026,05/03/2026,Late,26
+SHP-100126,05/01/2026,Newark,RegionalGrocer Co,Standard,Summit Carriers,Two-Day,05/03/2026,05/03/2026,Delivered,27
+SHP-100084,05/02/2026,Phoenix,Coca-Cola,VIP,Eagle Freight,Two-Day,05/04/2026,05/04/2026,Delivered,39
+SHP-100382,05/02/2026,Newark,Home Depot,VIP,Ironclad Hauling,Two-Day,05/04/2026,05/03/2026,Delivered,29
+SHP-100324,05/03/2026,Los Angeles,Northgate Mfg,Standard,Ironclad Hauling,Express,05/04/2026,05/04/2026,Delivered,32
+SHP-100145,05/03/2026,Los Angeles,Apex Supplies,Standard,Redline Logistics,Standard,05/06/2026,05/05/2026,Delivered,19
+SHP-100251,05/04/2026,Atlanta,Walmart,VIP,Ironclad Hauling,Two-Day,05/06/2026,05/06/2026,Delivered,27
+SHP-100274,05/04/2026,Chicago,Apex Supplies,Standard,Redline Logistics,Two-Day,05/06/2026,05/06/2026,Delivered,16
+SHP-100044,05/04/2026,Phoenix,RegionalGrocer Co,Standard,Summit Carriers,Two-Day,05/06/2026,05/06/2026,Delivered,4
+SHP-100290,05/05/2026,Chicago,MidwestParts LLC,Standard,Summit Carriers,Express,05/06/2026,05/06/2026,Delivered,37
+SHP-100386,05/05/2026,Phoenix,Lowe's,VIP,Redline Logistics,Two-Day,05/07/2026,05/07/2026,Delivered,7
+SHP-100212,05/05/2026,Atlanta,Lowe's,VIP,Eagle Freight,Standard,05/08/2026,05/08/2026,Delivered,28
+SHP-100341,05/05/2026,Newark,RegionalGrocer Co,Standard,Eagle Freight,Two-Day,05/07/2026,05/07/2026,Delivered,15
+SHP-100011,05/05/2026,Dallas,Walmart,VIP,Redline Logistics,Express,05/06/2026,05/09/2026,Late,21
+SHP-100276,05/06/2026,Chicago,Sunrise Foods,Standard,Redline Logistics,Two-Day,05/08/2026,05/08/2026,Delivered,35
+SHP-100336,05/06/2026,Newark,Lowe's,VIP,Eagle Freight,Standard,05/09/2026,05/09/2026,Delivered,3
+SHP-100354,05/06/2026,Los Angeles,Coca-Cola,VIP,Redline Logistics,Express,05/07/2026,05/07/2026,Delivered,8
+SHP-100000,05/06/2026,Phoenix,Home Depot,VIP,Eagle Freight,Two-Day,05/08/2026,05/08/2026,Delivered,7
+SHP-100003,05/06/2026,Newark,Coca-Cola,VIP,Patriot Transport,Two-Day,05/08/2026,05/08/2026,Delivered,11
+SHP-100069,05/06/2026,Newark,Lowe's,VIP,Summit Carriers,Two-Day,05/08/2026,05/08/2026,Delivered,16
+SHP-100123,05/06/2026,Los Angeles,BlueSky Distributors,Standard,Summit Carriers,Standard,05/09/2026,05/09/2026,Delivered,22
+SHP-100171,05/07/2026,Phoenix,MidwestParts LLC,Standard,Ironclad Hauling,Standard,05/10/2026,05/10/2026,Delivered,37
+SHP-100405,05/07/2026,Dallas,Apex Supplies,Standard,Velocity Lines,Two-Day,05/09/2026,05/09/2026,Delivered,20
+SHP-100097,05/07/2026,Phoenix,Coastal Retail,Standard,Velocity Lines,Two-Day,05/09/2026,05/09/2026,Delivered,19
+SHP-100070,05/07/2026,Chicago,Sunrise Foods,Standard,Eagle Freight,Two-Day,05/09/2026,05/09/2026,Delivered,35
+SHP-100137,05/07/2026,Chicago,Northgate Mfg,Standard,Eagle Freight,Express,05/08/2026,05/08/2026,Delivered,29
+SHP-100284,05/08/2026,Atlanta,MidwestParts LLC,Standard,Patriot Transport,Standard,05/11/2026,05/11/2026,Delivered,37
+SHP-100277,05/08/2026,Newark,MidwestParts LLC,Standard,Redline Logistics,Standard,05/11/2026,05/15/2026,Late,29
+SHP-100256,05/08/2026,Dallas,Target,VIP,Eagle Freight,Standard,05/11/2026,05/11/2026,Delivered,27
+SHP-100058,05/09/2026,Los Angeles,RegionalGrocer Co,Standard,Ironclad Hauling,Standard,05/12/2026,05/12/2026,Delivered,21
+SHP-100275,05/09/2026,Chicago,Apex Supplies,Standard,Redline Logistics,Standard,05/12/2026,05/12/2026,Delivered,32
+SHP-100039,05/09/2026,Newark,Target,VIP,Ironclad Hauling,Two-Day,05/11/2026,05/10/2026,Delivered,5
+SHP-100357,05/09/2026,Phoenix,Sunrise Foods,Standard,Summit Carriers,Two-Day,05/11/2026,05/11/2026,Delivered,28
+SHP-100193,05/09/2026,Newark,Home Depot,VIP,Patriot Transport,Express,05/10/2026,05/10/2026,Delivered,23
+SHP-100018,05/09/2026,Los Angeles,Target,VIP,Velocity Lines,Standard,05/12/2026,05/12/2026,Delivered,13
+SHP-100151,05/09/2026,Atlanta,Target,VIP,Eagle Freight,Standard,05/12/2026,05/12/2026,Delivered,16
+SHP-100124,05/09/2026,Los Angeles,Lowe's,VIP,Eagle Freight,Express,05/10/2026,05/10/2026,Delivered,32
+SHP-100110,05/09/2026,Newark,Home Depot,VIP,Patriot Transport,Two-Day,05/11/2026,05/10/2026,Delivered,33
+SHP-100304,05/09/2026,Phoenix,Coca-Cola,VIP,Eagle Freight,Standard,05/12/2026,05/12/2026,Delivered,28
+SHP-100095,05/10/2026,Chicago,BlueSky Distributors,Standard,Patriot Transport,Express,05/11/2026,05/11/2026,Delivered,13
+SHP-100175,05/10/2026,Atlanta,Target,VIP,Redline Logistics,Two-Day,05/12/2026,05/12/2026,Delivered,12
+SHP-100202,05/10/2026,Dallas,Coastal Retail,Standard,Ironclad Hauling,Standard,05/13/2026,05/13/2026,Delivered,22
+SHP-100109,05/10/2026,Dallas,Home Depot,VIP,Eagle Freight,Standard,05/13/2026,05/13/2026,Delivered,19
+SHP-100364,05/10/2026,Atlanta,BlueSky Distributors,Standard,Summit Carriers,Express,05/11/2026,05/11/2026,Delivered,34
+SHP-100063,05/10/2026,Chicago,Home Depot,VIP,Summit Carriers,Two-Day,05/12/2026,05/12/2026,Delivered,2
+SHP-100321,05/11/2026,Newark,Home Depot,VIP,Ironclad Hauling,Express,05/12/2026,05/12/2026,Delivered,27
+SHP-100116,05/11/2026,Los Angeles,Walmart,VIP,Patriot Transport,Standard,05/14/2026,05/14/2026,Delivered,26
+SHP-100257,05/11/2026,Dallas,Target,VIP,Redline Logistics,Two-Day,05/13/2026,05/13/2026,Delivered,33
+SHP-100353,05/11/2026,Newark,RegionalGrocer Co,Standard,Summit Carriers,Express,05/12/2026,05/12/2026,Delivered,32
+SHP-100055,05/11/2026,Atlanta,Coastal Retail,Standard,Patriot Transport,Express,05/12/2026,05/11/2026,Delivered,8
+SHP-100035,05/11/2026,Phoenix,Apex Supplies,Standard,Eagle Freight,Two-Day,05/13/2026,05/15/2026,Late,34
+SHP-100404,05/11/2026,Phoenix,MidwestParts LLC,Standard,Redline Logistics,Express,05/12/2026,05/12/2026,Delivered,6
+SHP-100226,05/11/2026,Dallas,Walmart,VIP,Summit Carriers,Standard,05/14/2026,05/14/2026,Delivered,35
+SHP-100282,05/12/2026,Newark,Northgate Mfg,Standard,Summit Carriers,Express,05/13/2026,05/13/2026,Delivered,6
+SHP-100061,05/12/2026,Newark,Coastal Retail,Standard,Velocity Lines,Two-Day,05/14/2026,05/14/2026,Delivered,14
+SHP-100196,05/12/2026,Newark,Coastal Retail,Standard,Ironclad Hauling,Standard,05/15/2026,05/15/2026,Delivered,4
+SHP-100309,05/12/2026,Chicago,Coastal Retail,Standard,Velocity Lines,Two-Day,05/14/2026,05/14/2026,Delivered,34
+SHP-100231,05/12/2026,Chicago,RegionalGrocer Co,Standard,Eagle Freight,Standard,05/15/2026,05/15/2026,Delivered,39
+SHP-100186,05/12/2026,Chicago,Home Depot,VIP,Patriot Transport,Standard,05/15/2026,05/14/2026,Delivered,30
+SHP-100192,05/12/2026,Newark,Northgate Mfg,Standard,Velocity Lines,Two-Day,05/14/2026,05/14/2026,Delivered,10
+SHP-100158,05/13/2026,Dallas,Coastal Retail,Standard,Summit Carriers,Standard,05/16/2026,05/16/2026,Delivered,39
+SHP-100351,05/13/2026,Dallas,Lowe's,VIP,Eagle Freight,Express,05/14/2026,05/14/2026,Delivered,22
+SHP-100340,05/14/2026,Atlanta,MidwestParts LLC,Standard,Summit Carriers,Standard,05/17/2026,05/17/2026,Delivered,39
+SHP-100224,05/14/2026,Dallas,Walmart,VIP,Redline Logistics,Two-Day,05/16/2026,05/16/2026,Delivered,30
+SHP-100250,05/14/2026,Phoenix,Coastal Retail,Standard,Ironclad Hauling,Two-Day,05/16/2026,05/16/2026,Delivered,2
+SHP-100204,05/14/2026,Chicago,Lowe's,VIP,Summit Carriers,Standard,05/17/2026,05/17/2026,Delivered,15
+SHP-100188,05/14/2026,Atlanta,MidwestParts LLC,Standard,Redline Logistics,Two-Day,05/16/2026,05/16/2026,Delivered,5
+SHP-100245,05/15/2026,Newark,Sunrise Foods,Standard,Ironclad Hauling,Two-Day,05/17/2026,05/20/2026,Late,38
+SHP-100053,05/15/2026,Chicago,Lowe's,VIP,Eagle Freight,Express,05/16/2026,05/16/2026,Delivered,35
+SHP-100005,05/15/2026,Atlanta,MidwestParts LLC,Standard,Eagle Freight,Express,05/16/2026,05/16/2026,Delivered,30
+SHP-100125,05/15/2026,Dallas,Sunrise Foods,Standard,Velocity Lines,Express,05/16/2026,05/16/2026,Delivered,25
+SHP-100094,05/15/2026,Chicago,Sunrise Foods,Standard,Velocity Lines,Two-Day,05/17/2026,05/17/2026,Delivered,22
+SHP-100300,05/15/2026,Los Angeles,Home Depot,VIP,Eagle Freight,Express,05/16/2026,05/16/2026,Delivered,4
+SHP-100320,05/16/2026,Newark,Sunrise Foods,Standard,Velocity Lines,Two-Day,05/18/2026,05/18/2026,Delivered,32
+SHP-100143,05/17/2026,Chicago,Sunrise Foods,Standard,Eagle Freight,Two-Day,05/19/2026,05/19/2026,Delivered,19
+SHP-100041,05/18/2026,Dallas,RegionalGrocer Co,Standard,Eagle Freight,Standard,05/21/2026,05/21/2026,Delivered,35
+SHP-100228,05/18/2026,Phoenix,RegionalGrocer Co,Standard,Redline Logistics,Standard,05/21/2026,05/21/2026,Delivered,29
+SHP-100134,05/18/2026,Chicago,Walmart,VIP,Redline Logistics,Express,05/19/2026,05/19/2026,Delivered,27
+SHP-100390,05/18/2026,Newark,Apex Supplies,Standard,Ironclad Hauling,Express,05/19/2026,05/19/2026,Delivered,38
+SHP-100152,05/18/2026,Los Angeles,Target,VIP,Patriot Transport,Express,05/19/2026,05/19/2026,Delivered,35
+SHP-100023,05/18/2026,Phoenix,Lowe's,VIP,Patriot Transport,Two-Day,05/20/2026,05/20/2026,Delivered,8
+SHP-100154,05/18/2026,Los Angeles,MidwestParts LLC,Standard,Redline Logistics,Standard,05/21/2026,05/21/2026,Delivered,16
+SHP-100302,05/19/2026,Chicago,MidwestParts LLC,Standard,Patriot Transport,Express,05/20/2026,05/19/2026,Delivered,35
+SHP-100078,05/19/2026,Dallas,Sunrise Foods,Standard,Redline Logistics,Express,05/20/2026,05/19/2026,Delivered,27
+SHP-100273,05/19/2026,Chicago,Northgate Mfg,Standard,Patriot Transport,Two-Day,05/21/2026,05/21/2026,Delivered,35
+SHP-100177,05/19/2026,Atlanta,BlueSky Distributors,Standard,Velocity Lines,Standard,05/22/2026,05/22/2026,Delivered,24
+SHP-100051,05/19/2026,Chicago,Target,VIP,Ironclad Hauling,Standard,05/22/2026,05/22/2026,Delivered,15
+SHP-100270,05/19/2026,Newark,Target,VIP,Velocity Lines,Two-Day,05/21/2026,05/23/2026,Late,8
+SHP-100348,05/19/2026,Los Angeles,Apex Supplies,Standard,Summit Carriers,Two-Day,05/21/2026,05/21/2026,Delivered,18
+SHP-100127,05/19/2026,Atlanta,RegionalGrocer Co,Standard,Ironclad Hauling,Express,05/20/2026,05/20/2026,Delivered,10
+SHP-100222,05/20/2026,Newark,Sunrise Foods,Standard,Eagle Freight,Two-Day,05/22/2026,05/22/2026,Delivered,2
+SHP-100408,05/20/2026,Atlanta,RegionalGrocer Co,Standard,Redline Logistics,Standard,05/23/2026,05/23/2026,Delivered,24
+SHP-100071,05/20/2026,Atlanta,Target,VIP,Summit Carriers,Standard,05/23/2026,05/23/2026,Delivered,5
+SHP-100200,05/20/2026,Chicago,Home Depot,VIP,Velocity Lines,Two-Day,05/22/2026,05/22/2026,Delivered,39
+SHP-100015,05/20/2026,Phoenix,MidwestParts LLC,Standard,Velocity Lines,Standard,05/23/2026,05/22/2026,Delivered,34
+SHP-100412,05/21/2026,Dallas,Target,VIP,Velocity Lines,Express,05/22/2026,05/22/2026,Delivered,5
+SHP-100319,05/21/2026,Phoenix,Coastal Retail,Standard,Ironclad Hauling,Standard,05/24/2026,05/24/2026,Delivered,19
+SHP-100388,05/21/2026,Phoenix,RegionalGrocer Co,Standard,Summit Carriers,Two-Day,05/23/2026,05/23/2026,Delivered,18
+SHP-100140,05/21/2026,Phoenix,Lowe's,VIP,Eagle Freight,Two-Day,05/23/2026,05/23/2026,Delivered,4
+SHP-100130,05/21/2026,Atlanta,Sunrise Foods,Standard,Redline Logistics,Express,05/22/2026,05/22/2026,Delivered,35
+SHP-100288,05/22/2026,Phoenix,Coca-Cola,VIP,Summit Carriers,Two-Day,05/24/2026,05/24/2026,Delivered,6
+SHP-100101,05/22/2026,Chicago,Sunrise Foods,Standard,Eagle Freight,Standard,05/25/2026,05/25/2026,Delivered,4
+SHP-100332,05/22/2026,Chicago,MidwestParts LLC,Standard,Eagle Freight,Express,05/23/2026,05/23/2026,Delivered,15
+SHP-100301,05/23/2026,Atlanta,Sunrise Foods,Standard,Eagle Freight,Express,05/24/2026,05/24/2026,Delivered,27
+SHP-100115,05/23/2026,Phoenix,Home Depot,VIP,Summit Carriers,Express,05/24/2026,05/24/2026,Delivered,26
+SHP-100312,05/23/2026,Los Angeles,RegionalGrocer Co,Standard,Ironclad Hauling,Express,05/24/2026,05/24/2026,Delivered,35
+SHP-100027,05/23/2026,Los Angeles,Sunrise Foods,Standard,Summit Carriers,Express,05/24/2026,05/24/2026,Delivered,28
+SHP-100050,05/23/2026,Atlanta,Target,VIP,Ironclad Hauling,Express,05/24/2026,05/24/2026,Delivered,16
+SHP-100220,05/24/2026,Los Angeles,RegionalGrocer Co,Standard,Summit Carriers,Two-Day,05/26/2026,05/26/2026,Delivered,34
+SHP-100271,05/24/2026,Dallas,Walmart,VIP,Patriot Transport,Express,05/25/2026,05/25/2026,Delivered,27
+SHP-100022,05/25/2026,Dallas,Lowe's,VIP,Velocity Lines,Two-Day,05/27/2026,05/26/2026,Delivered,13
+SHP-100384,05/25/2026,Phoenix,RegionalGrocer Co,Standard,Ironclad Hauling,Two-Day,05/27/2026,05/27/2026,Delivered,14
+SHP-100013,05/25/2026,Los Angeles,Lowe's,VIP,Ironclad Hauling,Two-Day,05/27/2026,05/27/2026,Delivered,15
+SHP-100046,05/25/2026,Dallas,BlueSky Distributors,Standard,Patriot Transport,Two-Day,05/27/2026,05/27/2026,Delivered,10
+SHP-100138,05/25/2026,Chicago,Coastal Retail,Standard,Redline Logistics,Two-Day,05/27/2026,05/27/2026,Delivered,20
+SHP-100168,05/25/2026,Newark,BlueSky Distributors,Standard,Eagle Freight,Express,05/26/2026,05/26/2026,Delivered,10
+SHP-100345,05/26/2026,Atlanta,Target,VIP,Eagle Freight,Standard,05/29/2026,05/29/2026,Delivered,27
+SHP-100349,05/26/2026,Newark,Target,VIP,Eagle Freight,Standard,05/29/2026,05/29/2026,Delivered,5
+SHP-100017,05/26/2026,Phoenix,RegionalGrocer Co,Standard,Eagle Freight,Express,05/27/2026,05/27/2026,Delivered,17
+SHP-100260,05/26/2026,Chicago,Apex Supplies,Standard,Eagle Freight,Standard,05/29/2026,05/29/2026,Delivered,24
+SHP-100166,05/26/2026,Los Angeles,Lowe's,VIP,Patriot Transport,Two-Day,05/28/2026,05/28/2026,Delivered,36
+SHP-100330,05/26/2026,Atlanta,Apex Supplies,Standard,Ironclad Hauling,Two-Day,05/28/2026,05/27/2026,Delivered,7
+SHP-100230,05/26/2026,Atlanta,BlueSky Distributors,Standard,Patriot Transport,Standard,05/29/2026,05/29/2026,Delivered,35
+SHP-100164,05/27/2026,Phoenix,Home Depot,VIP,Patriot Transport,Two-Day,05/29/2026,05/30/2026,Late,5
+SHP-100209,05/27/2026,Dallas,RegionalGrocer Co,Standard,Ironclad Hauling,Two-Day,05/29/2026,05/29/2026,Delivered,25
+SHP-100365,05/27/2026,Newark,RegionalGrocer Co,Standard,Patriot Transport,Standard,05/30/2026,05/30/2026,Delivered,5
+SHP-100207,05/27/2026,Phoenix,Coastal Retail,Standard,Summit Carriers,Two-Day,05/29/2026,05/30/2026,Late,29
+SHP-100179,05/27/2026,Atlanta,Northgate Mfg,Standard,Eagle Freight,Express,05/28/2026,05/28/2026,Delivered,29
+SHP-100232,05/27/2026,Phoenix,MidwestParts LLC,Standard,Summit Carriers,Two-Day,05/29/2026,05/29/2026,Delivered,23
+SHP-100234,05/27/2026,Atlanta,Target,VIP,Velocity Lines,Two-Day,05/29/2026,05/30/2026,Late,24
+SHP-100194,05/28/2026,Los Angeles,Home Depot,VIP,Redline Logistics,Express,05/29/2026,05/30/2026,Late,6
+SHP-100238,05/28/2026,Atlanta,Lowe's,VIP,Redline Logistics,Two-Day,05/30/2026,05/30/2026,Delivered,32
+SHP-100239,05/28/2026,Dallas,Home Depot,VIP,Summit Carriers,Standard,05/31/2026,05/31/2026,Delivered,6
+SHP-100262,05/28/2026,Chicago,Home Depot,VIP,Patriot Transport,Two-Day,05/30/2026,05/30/2026,Delivered,40
+SHP-100033,05/29/2026,Newark,Walmart,VIP,Patriot Transport,Express,05/30/2026,05/30/2026,Delivered,36
+SHP-100391,05/29/2026,Atlanta,BlueSky Distributors,Standard,Eagle Freight,Two-Day,05/31/2026,05/31/2026,Delivered,5
+SHP-100122,05/29/2026,Newark,Sunrise Foods,Standard,Patriot Transport,Standard,06/01/2026,06/01/2026,Delivered,39
+SHP-100285,05/29/2026,Los Angeles,Home Depot,VIP,Redline Logistics,Express,05/30/2026,05/30/2026,Delivered,32
+SHP-100218,05/29/2026,Atlanta,Coca-Cola,VIP,Patriot Transport,Two-Day,05/31/2026,06/03/2026,Late,35
+SHP-100253,05/29/2026,Dallas,Northgate Mfg,Standard,Patriot Transport,Express,05/30/2026,05/31/2026,Late,31
+SHP-100305,05/29/2026,Los Angeles,MidwestParts LLC,Standard,Summit Carriers,Standard,06/01/2026,06/01/2026,Delivered,8
+SHP-100156,05/29/2026,Newark,Lowe's,VIP,Summit Carriers,Standard,06/01/2026,06/02/2026,Late,2
+SHP-100012,05/29/2026,Dallas,Northgate Mfg,Standard,Patriot Transport,Express,05/30/2026,05/30/2026,Delivered,36
+SHP-100008,05/29/2026,Dallas,Home Depot,VIP,Patriot Transport,Express,05/30/2026,05/30/2026,Delivered,24
+SHP-100030,05/30/2026,Dallas,MidwestParts LLC,Standard,Summit Carriers,Express,05/31/2026,05/30/2026,Delivered,29
+SHP-100195,05/30/2026,Los Angeles,Coastal Retail,Standard,Velocity Lines,Express,05/31/2026,05/30/2026,Delivered,3
+SHP-100072,05/30/2026,Newark,MidwestParts LLC,Standard,Redline Logistics,Two-Day,06/01/2026,06/01/2026,Delivered,27
+SHP-100117,05/30/2026,Los Angeles,Walmart,VIP,Ironclad Hauling,Two-Day,06/01/2026,06/01/2026,Delivered,24
+SHP-100150,05/30/2026,Los Angeles,Coca-Cola,VIP,Ironclad Hauling,Standard,06/02/2026,06/02/2026,Delivered,27
+SHP-100077,05/30/2026,Atlanta,Northgate Mfg,Standard,Patriot Transport,Standard,06/02/2026,06/02/2026,Delivered,21
+SHP-100294,05/31/2026,Chicago,MidwestParts LLC,Standard,Ironclad Hauling,Two-Day,06/02/2026,06/02/2026,Delivered,14
+SHP-100215,05/31/2026,Dallas,Target,VIP,Eagle Freight,Express,06/01/2026,06/01/2026,Delivered,31
+SHP-100106,05/31/2026,Newark,Sunrise Foods,Standard,Ironclad Hauling,Two-Day,06/02/2026,06/02/2026,Delivered,19
+SHP-100293,06/01/2026,Los Angeles,Coca-Cola,VIP,Summit Carriers,Standard,06/04/2026,06/04/2026,Delivered,39
+SHP-100358,06/01/2026,Newark,Home Depot,VIP,Patriot Transport,Two-Day,06/03/2026,06/03/2026,Delivered,27
+SHP-100328,06/01/2026,Newark,RegionalGrocer Co,Standard,Eagle Freight,Two-Day,06/03/2026,06/03/2026,Delivered,35
+SHP-100100,06/01/2026,Atlanta,Coastal Retail,Standard,Redline Logistics,Express,06/02/2026,06/02/2026,Delivered,4
+SHP-100172,06/01/2026,Los Angeles,Coca-Cola,VIP,Summit Carriers,Two-Day,06/03/2026,06/03/2026,Delivered,36
+SHP-100317,06/01/2026,Phoenix,Northgate Mfg,Standard,Velocity Lines,Standard,06/04/2026,06/03/2026,Delivered,20
+SHP-100026,06/02/2026,Atlanta,Apex Supplies,Standard,Summit Carriers,Express,06/03/2026,06/03/2026,Delivered,37
+SHP-100086,06/02/2026,Phoenix,RegionalGrocer Co,Standard,Eagle Freight,Express,06/03/2026,06/07/2026,Late,30
+SHP-100371,06/02/2026,Dallas,Sunrise Foods,Standard,Eagle Freight,Express,06/03/2026,06/03/2026,Delivered,39
+SHP-100378,06/02/2026,Los Angeles,Northgate Mfg,Standard,Patriot Transport,Express,06/03/2026,06/03/2026,Delivered,32
+SHP-100131,06/02/2026,Newark,RegionalGrocer Co,Standard,Ironclad Hauling,Two-Day,06/04/2026,06/04/2026,Delivered,5
+SHP-100375,06/02/2026,Los Angeles,MidwestParts LLC,Standard,Patriot Transport,Standard,06/05/2026,06/05/2026,Delivered,12
+SHP-100191,06/03/2026,Dallas,Northgate Mfg,Standard,Eagle Freight,Standard,06/06/2026,06/06/2026,Delivered,38
+SHP-100229,06/03/2026,Newark,RegionalGrocer Co,Standard,Summit Carriers,Express,06/04/2026,06/04/2026,Delivered,18
+SHP-100065,06/03/2026,Dallas,BlueSky Distributors,Standard,Ironclad Hauling,Express,06/04/2026,06/04/2026,Delivered,1
+SHP-100311,06/03/2026,Phoenix,Northgate Mfg,Standard,Patriot Transport,Two-Day,06/05/2026,06/06/2026,Late,25
+SHP-100121,06/03/2026,Newark,Home Depot,VIP,Ironclad Hauling,Standard,06/06/2026,06/06/2026,Delivered,18
+SHP-100380,06/03/2026,Chicago,Target,VIP,Patriot Transport,Two-Day,06/05/2026,06/05/2026,Delivered,8
+SHP-100350,06/03/2026,Chicago,Lowe's,VIP,Summit Carriers,Two-Day,06/05/2026,06/05/2026,Delivered,7
+SHP-100221,06/04/2026,Chicago,Home Depot,VIP,Velocity Lines,Two-Day,06/06/2026,06/06/2026,Delivered,2
+SHP-100162,06/04/2026,Los Angeles,Coastal Retail,Standard,Eagle Freight,Express,06/05/2026,06/05/2026,Delivered,34
+SHP-100410,06/04/2026,Atlanta,MidwestParts LLC,Standard,Velocity Lines,Express,06/05/2026,06/05/2026,Delivered,26
+SHP-100296,06/04/2026,Los Angeles,Home Depot,VIP,Eagle Freight,Two-Day,06/06/2026,06/06/2026,Delivered,11
+SHP-100298,06/05/2026,Newark,Walmart,VIP,Patriot Transport,Standard,06/08/2026,06/08/2026,Delivered,36
+SHP-100264,06/05/2026,Los Angeles,RegionalGrocer Co,Standard,Summit Carriers,Standard,06/08/2026,06/08/2026,Delivered,3
+SHP-100189,06/05/2026,Los Angeles,Northgate Mfg,Standard,Eagle Freight,Two-Day,06/07/2026,06/07/2026,Delivered,23
+SHP-100415,06/06/2026,Dallas,Sunrise Foods,Standard,Redline Logistics,Two-Day,06/08/2026,06/08/2026,Delivered,11
+SHP-100265,06/06/2026,Dallas,BlueSky Distributors,Standard,Redline Logistics,Express,06/07/2026,06/07/2026,Delivered,33
+SHP-100103,06/06/2026,Los Angeles,Coastal Retail,Standard,Velocity Lines,Standard,06/09/2026,06/08/2026,Delivered,20
+SHP-100066,06/06/2026,Atlanta,MidwestParts LLC,Standard,Summit Carriers,Standard,06/09/2026,06/09/2026,Delivered,8
+SHP-100087,06/06/2026,Phoenix,Target,VIP,Patriot Transport,Standard,06/09/2026,06/09/2026,Delivered,35
+SHP-100198,06/06/2026,Phoenix,Sunrise Foods,Standard,Patriot Transport,Two-Day,06/08/2026,06/08/2026,Delivered,19
+SHP-100113,06/06/2026,Los Angeles,Walmart,VIP,Summit Carriers,Express,06/07/2026,06/06/2026,Delivered,12
+SHP-100042,06/07/2026,Phoenix,Lowe's,VIP,Velocity Lines,Two-Day,06/09/2026,06/12/2026,Late,7
+SHP-100019,06/07/2026,Dallas,RegionalGrocer Co,Standard,Summit Carriers,Two-Day,06/09/2026,06/09/2026,Delivered,32
+SHP-100329,06/07/2026,Los Angeles,MidwestParts LLC,Standard,Eagle Freight,Standard,06/10/2026,06/10/2026,Delivered,19
+SHP-100295,06/07/2026,Dallas,Northgate Mfg,Standard,Velocity Lines,Standard,06/10/2026,06/10/2026,Delivered,5
+SHP-100067,06/07/2026,Newark,Target,VIP,Patriot Transport,Two-Day,06/09/2026,06/09/2026,Delivered,29
+SHP-100203,06/07/2026,Dallas,Northgate Mfg,Standard,Ironclad Hauling,Two-Day,06/09/2026,06/11/2026,Late,2
+SHP-100236,06/07/2026,Newark,Home Depot,VIP,Velocity Lines,Standard,06/10/2026,06/10/2026,Delivered,18
+SHP-100076,06/08/2026,Phoenix,Target,VIP,Patriot Transport,Standard,06/11/2026,06/12/2026,Late,2
+SHP-100267,06/08/2026,Los Angeles,RegionalGrocer Co,Standard,Velocity Lines,Two-Day,06/10/2026,06/10/2026,Delivered,31
+SHP-100085,06/08/2026,Atlanta,Coastal Retail,Standard,Eagle Freight,Express,06/09/2026,06/09/2026,Delivered,33
+SHP-100385,06/08/2026,Dallas,Walmart,VIP,Velocity Lines,Express,06/09/2026,06/09/2026,Delivered,21
+SHP-100359,06/08/2026,Los Angeles,Walmart,VIP,Redline Logistics,Two-Day,06/10/2026,06/09/2026,Delivered,7
+SHP-100031,06/09/2026,Los Angeles,Home Depot,VIP,Eagle Freight,Two-Day,06/11/2026,06/10/2026,Delivered,16
+SHP-100079,06/09/2026,Chicago,Home Depot,VIP,Patriot Transport,Standard,06/12/2026,06/16/2026,Late,5
+SHP-100108,06/09/2026,Phoenix,Coca-Cola,VIP,Patriot Transport,Standard,06/12/2026,06/12/2026,Delivered,18
+SHP-100155,06/09/2026,Chicago,Home Depot,VIP,Ironclad Hauling,Express,06/10/2026,06/10/2026,Delivered,4
+SHP-100252,06/09/2026,Los Angeles,Northgate Mfg,Standard,Eagle Freight,Express,06/10/2026,06/09/2026,Delivered,31
+SHP-100074,06/09/2026,Chicago,MidwestParts LLC,Standard,Patriot Transport,Two-Day,06/11/2026,06/11/2026,Delivered,32
+SHP-100159,06/09/2026,Atlanta,Lowe's,VIP,Summit Carriers,Standard,06/12/2026,06/12/2026,Delivered,2
+SHP-100060,06/10/2026,Los Angeles,Coastal Retail,Standard,Redline Logistics,Express,06/11/2026,06/11/2026,Delivered,14
+SHP-100211,06/10/2026,Atlanta,Northgate Mfg,Standard,Patriot Transport,Express,06/11/2026,06/11/2026,Delivered,34
+SHP-100043,06/10/2026,Dallas,Lowe's,VIP,Eagle Freight,Standard,06/13/2026,06/13/2026,Delivered,14
+SHP-100346,06/10/2026,Atlanta,Walmart,VIP,Eagle Freight,Express,06/11/2026,06/13/2026,Late,25
+SHP-100047,06/10/2026,Los Angeles,Walmart,VIP,Redline Logistics,Two-Day,06/12/2026,06/13/2026,Late,3
+SHP-100068,06/10/2026,Los Angeles,BlueSky Distributors,Standard,Velocity Lines,Express,06/11/2026,06/11/2026,Delivered,31
+SHP-100006,06/10/2026,Los Angeles,Home Depot,VIP,Patriot Transport,Standard,06/13/2026,06/13/2026,Delivered,24
+SHP-100367,06/10/2026,Phoenix,Coca-Cola,VIP,Velocity Lines,Standard,06/13/2026,06/13/2026,Delivered,30
+SHP-100248,06/10/2026,Atlanta,Lowe's,VIP,Summit Carriers,Two-Day,06/12/2026,06/12/2026,Delivered,40
+SHP-100255,06/11/2026,Newark,Target,VIP,Redline Logistics,Two-Day,06/13/2026,06/14/2026,Late,29
+SHP-100002,06/11/2026,Dallas,Apex Supplies,Standard,Velocity Lines,Standard,06/14/2026,06/14/2026,Delivered,35
+SHP-100170,06/11/2026,Los Angeles,Walmart,VIP,Velocity Lines,Two-Day,06/13/2026,06/13/2026,Delivered,23
+SHP-100010,06/11/2026,Dallas,Sunrise Foods,Standard,Patriot Transport,Express,06/12/2026,06/12/2026,Delivered,4
+SHP-100089,06/12/2026,Chicago,Sunrise Foods,Standard,Summit Carriers,Express,06/13/2026,06/13/2026,Delivered,2
+SHP-100157,06/12/2026,Atlanta,RegionalGrocer Co,Standard,Summit Carriers,Standard,06/15/2026,06/15/2026,Delivered,36
+SHP-100081,06/12/2026,Dallas,Sunrise Foods,Standard,Ironclad Hauling,Standard,06/15/2026,06/15/2026,Delivered,17
+SHP-100393,06/12/2026,Chicago,Apex Supplies,Standard,Velocity Lines,Standard,06/15/2026,06/15/2026,Delivered,4
+SHP-100083,06/13/2026,Atlanta,Coastal Retail,Standard,Eagle Freight,Express,06/14/2026,06/13/2026,Delivered,26
+SHP-100417,06/13/2026,Chicago,Apex Supplies,Standard,Eagle Freight,Express,06/14/2026,06/14/2026,Delivered,33
+SHP-100073,06/13/2026,Newark,Coastal Retail,Standard,Ironclad Hauling,Standard,06/16/2026,06/16/2026,Delivered,23
+SHP-100112,06/13/2026,Chicago,Walmart,VIP,Eagle Freight,Standard,06/16/2026,06/16/2026,Delivered,18
+SHP-100185,06/13/2026,Atlanta,Sunrise Foods,Standard,Eagle Freight,Express,06/14/2026,06/14/2026,Delivered,27
+SHP-100370,06/13/2026,Dallas,Lowe's,VIP,Ironclad Hauling,Standard,06/16/2026,06/19/2026,Late,21
+SHP-100165,06/14/2026,Dallas,Lowe's,VIP,Velocity Lines,Two-Day,06/16/2026,06/16/2026,Delivered,39
+SHP-100148,06/14/2026,Phoenix,BlueSky Distributors,Standard,Ironclad Hauling,Express,06/15/2026,06/15/2026,Delivered,24
+SHP-100269,06/14/2026,Los Angeles,Sunrise Foods,Standard,Redline Logistics,Two-Day,06/16/2026,06/16/2026,Delivered,38
+SHP-100001,06/15/2026,Phoenix,BlueSky Distributors,Standard,Velocity Lines,Standard,06/18/2026,06/18/2026,Delivered,14
+SHP-100279,06/15/2026,Phoenix,Lowe's,VIP,Summit Carriers,Standard,06/18/2026,06/18/2026,Delivered,34
+SHP-100088,06/15/2026,Newark,Sunrise Foods,Standard,Patriot Transport,Two-Day,06/17/2026,06/17/2026,Delivered,6
+SHP-100160,06/15/2026,Dallas,Walmart,VIP,Redline Logistics,Standard,06/18/2026,06/18/2026,Delivered,4
+SHP-100373,06/15/2026,Dallas,Northgate Mfg,Standard,Ironclad Hauling,Express,06/16/2026,06/17/2026,Late,20
+SHP-100337,06/15/2026,Dallas,RegionalGrocer Co,Standard,Eagle Freight,Standard,06/18/2026,06/18/2026,Delivered,26
+SHP-100369,06/15/2026,Phoenix,Coastal Retail,Standard,Summit Carriers,Express,06/16/2026,06/16/2026,Delivered,14
+SHP-100128,06/15/2026,Newark,Walmart,VIP,Summit Carriers,Two-Day,06/17/2026,06/17/2026,Delivered,29
