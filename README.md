@@ -1,4 +1,4 @@
-# RXO Delivery Hub SLA Performance Tracker
+# Delivery Hub SLA Performance Tracker
 
 ## Overview
 
@@ -174,13 +174,6 @@ This project was built as a pre-interview exercise for an Associate Analyst, Cus
 - **Automation:** Connect to live shipment data via API or database for real-time monitoring
 - **Power BI Migration:** Migrate to interactive dashboards for broader stakeholder access
 - **Geographic Visualization:** Map hub performance by region to identify systemic patterns
-
----
-
-## Contact & Questions
-
-Built as a data analytics portfolio project in June 2026.  
-Questions about methodology, findings, or Excel implementation? Open an issue or reach out.
 
 ---
 
